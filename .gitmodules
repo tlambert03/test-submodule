@@ -1,0 +1,3 @@
+[submodule "napari-docs-example.github.io"]
+	path = napari-docs-example.github.io
+	url = https://github.com/napari-docs-example/napari-docs-example.github.io
